@@ -100,8 +100,8 @@
     <Compile Include="Assets\Scripts\Manage\UnitySingleton.cs" />
     <Compile Include="Assets\Scripts\NetWork\ByteArray.cs" />
     <Compile Include="Assets\Scripts\NetWork\NetIO.cs" />
+    <Compile Include="Assets\Scripts\NetWork\Protocol\SocketModel.cs" />
     <Compile Include="Assets\Scripts\NetWork\SerializeUtil.cs" />
-    <Compile Include="Assets\Scripts\NetWork\SocketModel.cs" />
     <Compile Include="Assets\Scripts\TestCode\TestCode.cs" />
     <Compile Include="Assets\Scripts\TestCode\TestResources.cs" />
     <Compile Include="Assets\Scripts\Utility\Ex.cs" />
