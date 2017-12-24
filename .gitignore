@@ -3,3 +3,15 @@
 GeneralFramework/Library/
 GeneralFramework/Temp/
 
+GeneralFramework/.vs/
+GeneralFramework/.vs/GeneralFramework/v15/.suo
+GeneralFramework/.vs/GeneralFramework/v15/sqlite3/storage.ide
+GeneralFramework/GeneralFramework.userprefs
+GeneralFramework/GeneralFramework.Editor.csproj
+GeneralFramework/GeneralFramework.csproj
+GeneralFramework/GeneralFramework.Plugins.csproj
+GeneralFramework/Assembly-CSharp-Editor.csproj
+GeneralFramework/Assembly-CSharp-firstpass.csproj
+GeneralFramework/Assembly-CSharp.csproj
+GeneralFramework/UnityPackageManager/manifest.json
+GeneralFramework/ProjectSettings/ProjectVersion.txt
